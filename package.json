@@ -1,6 +1,7 @@
 {
   "name": "infinitest",
   "displayName": "InfiniTest",
+  "publisher": "fredericfalliere",
   "repository": {
     "url": "https://github.com/fredericfalliere/VSCode-Infinitest"
   },
