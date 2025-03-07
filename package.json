@@ -1,6 +1,10 @@
 {
   "name": "infinitest",
   "displayName": "InfiniTest",
+  "repository": {
+    "url": "https://github.com/fredericfalliere/VSCode-Infinitest"
+  },
+  "license": "BSD-3-Clause",
   "author": {
     "name": "Frédéric Falliere"
   },
