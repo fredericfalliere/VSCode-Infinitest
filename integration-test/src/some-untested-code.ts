@@ -1,3 +1,3 @@
-export function untest() {
-  return "caca";
+export function UnTestedFunction() {
+  return "itsAFeatureSir";
 }

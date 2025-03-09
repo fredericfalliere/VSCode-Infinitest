@@ -1,5 +1,5 @@
 export class SomeBusinessCode {
   public lengthOfAString(str: string): number {
-    return str.length + 1;
+    return str.length;
   }
 }
